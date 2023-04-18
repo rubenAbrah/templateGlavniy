@@ -1,6 +1,9 @@
  
 // import '@/App.css'
 import 'material-icons/iconfont/material-icons.css';
+import "regenerator-runtime/runtime";
+import "core-js/stable"; // if polyfills are also needed
+import Chart from 'chart.js/auto';
 /**
 =========================================================
 * Material Dashboard 2 React - v2.1.0
